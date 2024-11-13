@@ -5,5 +5,4 @@
   
   <img src="https://github.com/alimahrez/alimahrez/blob/main/rb_15916.png" align="right" width="25%"/>
 
-I'm an Electronics Engineer and maker (making DIY electronics things), I specialize in embedded programming, PCB design and IoT systems,  
-I am always passionate about sharing my knowledge and empowering others along the way.
+I'm an Electronics Engineer and maker (making DIY electronics things), I specialize in embedded programming, PCB design and IoT systems, I am always passionate about sharing my knowledge and empowering others along the way.
