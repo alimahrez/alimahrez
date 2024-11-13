@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ali Mahrez 👋</h1>
-<p align="center">
+<p align="center" style="text-align:justify;">
     <a href="https://www.linkedin.com/in/aalimahrez"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   </p>
   
